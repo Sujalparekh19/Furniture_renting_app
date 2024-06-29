@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640517617922",
+    "project_id": "furniture-cebb8",
+    "storage_bucket": "furniture-cebb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640517617922:android:501b94e27c83548b52aa1b",
+        "android_client_info": {
+          "package_name": "com.example.mainactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0fp3h7BJb9xHPvTcMGuHBcUlqU_h4xro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
